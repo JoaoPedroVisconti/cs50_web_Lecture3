@@ -1,0 +1,5 @@
+NoteLecture03.yaml
+*.vscode
+config.py
+*.pyc
+# /__pycache__/
