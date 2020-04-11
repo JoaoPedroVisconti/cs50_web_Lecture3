@@ -1,4 +1,4 @@
-NoteLecture03.yaml
+*.yaml
 *.vscode
 config.py
 *.pyc
